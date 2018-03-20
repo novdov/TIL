@@ -1,12 +1,3 @@
----
-title: Mac High Sierra에서 XGBoost 설치하기
-date: 2018-03-20 18:50:43
-categories:
-- Tips
-tags:
-- python
----
-
 ###### 2018. 03. 20
 
 ## Mac High Sierra(OSX)에서 XGBoost 설치하기
