@@ -52,7 +52,9 @@ $ cp make/config.mk ./config.mk
 $ make -j4
 ```
 
- ``make -j4`` 명령에서  `clang: error: unsupported option '-fopenmp'` 마주하게 되는데, 이를 해결하는 방법은 다음과 같다. 참고 문서: <https://github.com/ppwwyyxx/OpenPano/issues/16> (OpenMP 오류 해결)
+ ``make -j4`` 명령에서  `clang: error: unsupported option '-fopenmp'` 마주하게 되는데, 이를 해결하는 방법은 다음과 같다. 
+
+참고 문서: <https://github.com/ppwwyyxx/OpenPano/issues/16> (OpenMP 오류 해결)
 
 - `clang: error: unsupported option '-fopenmp'` 오류 해결 방법
 
