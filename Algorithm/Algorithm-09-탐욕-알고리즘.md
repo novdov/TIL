@@ -40,7 +40,7 @@ tags:
 - 가능한 모든 방송국의 부분 집합을 나열한다. (멱집합) 가능한 부분 집합의 개수는 ![2^{n}](https://latex.codecogs.com/svg.latex?2%5E%7Bn%7D)개이다.
 - 이 부분 집합 중에 50개 주 전체를 커버할 수 있으면서 가장 원소의 수가 적은 부분 집합을 고른다.
 
-해당 풀이의 문제는 가능한 부분 집합을 계산하는 데 시간이 오래 걸린다는 점이다. **부분 집합의 수가 **![2^{n}](https://latex.codecogs.com/svg.latex?2%5E%7Bn%7D)**개이기 때문에** **$\text O(2^n)$ 시간이 걸리기 때문이다.** 방송국의 수가 100개만 되어도 전체 실행 시간은 ![4\times10^{21}](https://latex.codecogs.com/svg.latex?%5Cinline%204%5Ctimes10%5E%7B21%7D)년이나 된다.
+해당 풀이의 문제는 가능한 부분 집합을 계산하는 데 시간이 오래 걸린다는 점이다. 부분 집합의 수가 ![2^{n}](https://latex.codecogs.com/svg.latex?2%5E%7Bn%7D)개이기 때문에 ![\text O(n^2)](https://latex.codecogs.com/svg.latex?%5Ctext%20O%28n%5E2%29)시간이 걸리기 때문이다. 방송국의 수가 100개만 되어도 전체 실행 시간은 ![4\times10^{21}](https://latex.codecogs.com/svg.latex?%5Cinline%204%5Ctimes10%5E%7B21%7D)년이나 된다.
 
 이 떄는 탐욕 알고리즘을 사용한다.
 
