@@ -40,7 +40,7 @@ https://novdov.github.io/
 - 핸즈온 머신러닝 (오렐리알 제롱 저, 박해선 역, 한빛미디어)
 - 골빈해커의 3분 딥러닝 텡서플로맛 (김진중 저, 한빛미디어)
 - 코딩셰프의 3분 딥러닝 케라스맛 (김성진 저, 한빛미디어)
-- 블록과 함꼐 하는 파이썬 딥러닝 케라스 (김태형 저, 디지털북스)
+- 블록과 함께 하는 파이썬 딥러닝 케라스 (김태형 저, 디지털북스)
 - [모두를 위한 딥러닝 강좌 시즌1 (김성훈)](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=1)
 
 
