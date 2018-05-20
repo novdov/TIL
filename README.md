@@ -53,6 +53,7 @@
 
 ### Algorithm/Data Structure
 
+- 파이썬으로 배우는 실전 알고리즘 (마시모 디 피에로 저, 안성준 역, 프리렉)
 - **Hello Coding 그림으로 개념을 이해하는 알고리즘 (아디트야 바르가바 저, 김도형 역, 한빛미디어)** - *Python*
 - **컴퓨터 사이언스 부트캠프 with 파이썬 (양태환 저, 길벗)**
 - **프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 (구종만 저, 인사이트)** - *C++*
@@ -63,6 +64,7 @@
 
 - **CS224N (Stanford)**
 - **Sequence Model (Andrew Ng, Cousera)**
+- [고려대 강필성 교수님 텍스트 마이닝](https://github.com/pilsung-kang/text-mining)
 - [**ratsgo's blog**](https://ratsgo.github.io/blog/categories/)
 - [**김현중님의 블로그**](https://lovit.github.io/)
 
