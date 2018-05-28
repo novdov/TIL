@@ -47,8 +47,8 @@
 
 ### NLP
 
-- **[CS224n (Stanford)](http://web.stanford.edu/class/cs224n/index.html)**
-- **[Sequence Models (Andrew Ng, Cousera)](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)**
+- **[Stanford University | CS224n (Richard Socher)](http://web.stanford.edu/class/cs224n/index.html)**
+- **[Cousera | Sequence Models (Andrew Ng)](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)**
 - [고려대 강필성 교수님 텍스트 마이닝](https://github.com/pilsung-kang/text-mining)
 - [**ratsgo's blog**](https://ratsgo.github.io/blog/categories/)
 - [**김현중님의 블로그**](https://lovit.github.io/)
