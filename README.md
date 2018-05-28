@@ -69,3 +69,8 @@
 - [**ratsgo's blog**](https://ratsgo.github.io/blog/categories/)
 - [**김현중님의 블로그**](https://lovit.github.io/)
 
+
+
+### Database
+
+- 데이터 분석을 위한 SQL 레시피 (가사키 나가토/다미야 나오토 저, 윤인성 역, 한빛미디어)
