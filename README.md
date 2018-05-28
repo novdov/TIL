@@ -1,14 +1,10 @@
 ## 공부하는 것들을 기록하는 레포입니다.
 
-
-
 ### Info
 
-아래는 그 동안 읽은(읽고 있는) 책, 공부한 것들을 기록한 것들입니다. 부족함이 많아 대부분 계속해서 찾아보는 것들입니다.
-- 개인적으로 추천하고 싶은 도서/강의는 **Bold체**로 표시했습니다.
+아래는 그 동안 공부한 흔적들을 기록한 것들입니다. 책, 강의(온/오프라인) 등등 가리지 않고 기록합니다. 부족함이 많아 대부분 계속해서 찾아보는 것들입니다.
+- 개인적으로 추천하고 싶은 도서/강의는 **두껍게** 표시했습니다.
 - 여기에 담지 못하는 것들은 [개인 블로그](https://novdov.github.io/)에 기록하고 있습니다.
-
-
 
 ### Linear Algebra
 
@@ -16,19 +12,13 @@
 - **프로그래머를 위한 선형대수 (히라오카 카즈유키/호리 겐 저, 이창신 역, 길벗)**
 - [선형대수 (유경렬, 한양대학교 KOCW)](http://www.kocw.net/home/search/kemView.do?kemId=1043234)
 
-
-
 ### Calculus
 
 - 미분적분학 에센스 (James Stewart 저, 한빛수학교재연구소 역, 한빛아카데미)
 
-
-
 ### Probability and Statistics
 
 - [기초통계학 (여인숙, 숙명여대 KOCW)](http://www.kocw.net/home/search/kemView.do?kemId=1052562)
-
-
 
 ### ML/DL
 
@@ -42,15 +32,11 @@
 - 블록과 함께 하는 파이썬 딥러닝 케라스 (김태형 저, 디지털북스)
 - [**모두를 위한 딥러닝 강좌 시즌1 (김성훈)**](https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=1)
 
-
-
 ### Python
 
 - **Do it! 점프 투 파이썬 (박응용 저, 이지스퍼블리싱)**
 - **파이썬 코딩의 기술 (브렛 슬라키 저, 김형철 역, 길벗)**
 - 고성능 파이썬 (미샤 고렐릭/이안 오스발트 저, 오현석/김영근 역, 한빛미디어)
-
-
 
 ### Algorithm/Data Structure
 
@@ -59,18 +45,19 @@
 - **컴퓨터 사이언스 부트캠프 with 파이썬 (양태환 저, 길벗)**
 - **프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 (구종만 저, 인사이트)** [Language: C++]
 
-
-
 ### NLP
 
-- **CS224N (Stanford)**
-- **Sequence Model (Andrew Ng, Cousera)**
+- **[CS224n (Stanford)](http://web.stanford.edu/class/cs224n/index.html)**
+- **[Sequence Models (Andrew Ng, Cousera)](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)**
 - [고려대 강필성 교수님 텍스트 마이닝](https://github.com/pilsung-kang/text-mining)
 - [**ratsgo's blog**](https://ratsgo.github.io/blog/categories/)
 - [**김현중님의 블로그**](https://lovit.github.io/)
 
-
-
 ### Database
 
 - 데이터 분석을 위한 SQL 레시피 (가사키 나가토/다미야 나오토 저, 윤인성 역, 한빛미디어)
+
+### Offline Lecture
+
+- 패스트캠퍼스 | 데이터사이언스 스쿨 7기
+- 패스트캠퍼스 | 머신러닝을 위한 최적화와 수치해석 캠프 (강의 조교, 2018.05.28~)
